@@ -4,9 +4,6 @@
         <componentInstances>
             <componentName>force:highlightsPanel</componentName>
         </componentInstances>
-        <componentInstances>
-            <componentName>InTheArea</componentName>
-        </componentInstances>
         <mode>Replace</mode>
         <name>header</name>
         <type>Region</type>
