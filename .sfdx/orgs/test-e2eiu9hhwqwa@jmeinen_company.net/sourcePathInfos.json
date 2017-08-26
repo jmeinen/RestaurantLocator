@@ -2,14 +2,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1503666933000,
             "changeTime": 1503666933000,
             "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1503666933000,
             "changeTime": 1503666933000,
             "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1503666933000,
             "changeTime": 1503666933000,
             "contentHash": "dd4656cae64f18c805a2563892c72512ec52bed0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1503666940000,
             "changeTime": 1503666940000,
             "contentHash": "a214a4ec0cf03cf1342d68247c9d99ac33626803",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -76,14 +76,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5942,
             "modifiedTime": 1503666720000,
             "changeTime": 1503666720000,
             "contentHash": "b572818a48ca7f0db3f531bbcf32920c1b3dd8e5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -91,14 +91,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura/InTheArea",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura/InTheArea",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1503666720000,
             "changeTime": 1503666720000,
             "contentHash": "d431c3d886e1d0a2b01b070e081f0a63fd1f7416",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -106,14 +106,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/flexipages",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1503666720000,
             "changeTime": 1503666720000,
             "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -121,14 +121,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1503666720000,
             "changeTime": 1503666720000,
             "contentHash": "8fd4bafc29259eebc3ba5a8f1e385a6bfb38844e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -136,14 +136,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/classes/InTheArea.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/classes/InTheArea.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1414,
             "modifiedTime": 1503769262000,
             "changeTime": 1503769262000,
             "contentHash": "edcf95f3b6a66cd24054caf8893fe0dbc9dfd8c7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -151,14 +151,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/classes/InTheArea.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/classes/InTheArea.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 187,
             "modifiedTime": 1503666720000,
             "changeTime": 1503666720000,
             "contentHash": "a0c2878b2d2e00e6a3b6d227689a2838e4f79f7b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -166,14 +166,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/remoteSiteSettings/YelpProxy.remoteSite-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/remoteSiteSettings/YelpProxy.remoteSite-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 272,
             "modifiedTime": 1503666720000,
             "changeTime": 1503666720000,
             "contentHash": "1495f0199b690bf04ece0d27964916dcbdc8842a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -181,14 +181,14 @@
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/remoteSiteSettings",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/remoteSiteSettings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1503666720000,
             "changeTime": 1503666720000,
             "contentHash": "17653b0ebb130abbb547a8100a2c06365b550621",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -200,40 +200,38 @@
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura/InTheArea/InTheAreaController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 198,
-            "modifiedTime": 1503666720000,
-            "changeTime": 1503666720000,
-            "contentHash": "723199afa0224d6465dda506fe8f5119e6baf897",
+            "size": 699,
+            "modifiedTime": 1503770433000,
+            "changeTime": 1503770433000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "e2d67a973b1422eeeef8f8db9b420443e525b24f"
         }
     ],
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura/InTheArea/InTheAreaHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura/InTheArea/InTheAreaHelper.js",
             "isDirectory": false,
+            "size": 1130,
+            "modifiedTime": 1503770065000,
+            "changeTime": 1503770065000,
+            "contentHash": "452e82c06709327ba74f8fe051108c417d5384a9",
             "isMetadataFile": false,
-            "size": 916,
-            "modifiedTime": 1503769204000,
-            "changeTime": 1503769204000,
-            "contentHash": "b69c6cae24f3df2b849b3485759fe30f02d7670b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura/InTheArea/InTheArea.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura/InTheArea/InTheArea.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1503666271000,
             "changeTime": 1503666271000,
             "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -245,12 +243,11 @@
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura/InTheArea/InTheArea.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1752,
-            "modifiedTime": 1503769159000,
-            "changeTime": 1503769159000,
-            "contentHash": "4c41212a9500d6fa9067eab838d46041682b2c72",
+            "size": 3098,
+            "modifiedTime": 1503770405000,
+            "changeTime": 1503770405000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "9cdd0fdaf21d6663b87727632fff976adb4f8851"
         }
     ],
     [
@@ -260,12 +257,11 @@
             "sourcePath": "/Users/jmeinen/Google Drive/Workspaces/Visual Studio Code/RestaurantLocator/force-app/main/default/aura/InTheArea/InTheArea.css",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 9,
-            "modifiedTime": 1503666720000,
-            "changeTime": 1503666720000,
-            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "size": 512,
+            "modifiedTime": 1503770276000,
+            "changeTime": 1503770276000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "ff7e6e9478fec0eb1a09824da5cb558306ac56bb"
         }
     ]
 ]
