@@ -1,9 +1,10 @@
-<aura:component controller="InTheArea" implements="force:appHostable, flexipage:availableForAllPageTypes, flexipage:availableForRecordHome, force:hasRecordId" access="global" >
+<aura:component controller="InTheArea" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global" >
   <aura:attribute name="recordId" type="Id" />
-  <aura:attribute name="defaultSearch" type="String" default="Restaurants" />
+  <aura:attribute name="defaultSearch" type="String" />
   <aura:attribute name="location" type="Object" default='{"coords":{"latitude":37.7938462, "longitude":-122.3970253}}' />
   <aura:attribute name="restaurantList" type="Object" />
   <aura:attribute name="openItem" type="String" />
+  <aura:attribute name="designHeight" type="String" />  
   <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
     <div class="slds-box small" aura:id="main">
         <div aura:id="panelList">
@@ -50,4 +51,3 @@
       </div>
     </div>
   </aura:component>
-  

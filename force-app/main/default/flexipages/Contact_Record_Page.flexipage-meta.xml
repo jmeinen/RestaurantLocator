@@ -138,6 +138,14 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentInstanceProperties>
+                <name>defaultSearch</name>
+                <value>Restaurants</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>designHeight</name>
+                <value>small</value>
+            </componentInstanceProperties>
             <componentName>InTheArea</componentName>
         </componentInstances>
         <componentInstances>
