@@ -1,17 +1,18 @@
 ({
     getLocalList: function(component) {
-        var location = component.get("v.location");
-        var action = component.get("c.getLocal");
+        var recID = component.get("v.recordId");
+        var location = component.get("v.location");        
         var searchTerm = component.find("searchTerm").get("v.value");
-        if (!searchTerm) {
+        if (searchTerm == null) {
             searchTerm = component.get("v.defaultSearch");
         }
         location = JSON.parse(location);
-        action.setParams({
-            "searchTerm": searchTerm,
-            "lat": location.coords.latitude,
-            "lon": location.coords.longitude
-        });
+        var action = component.get("c.getListByAddress");
+            action.setParams({
+                "recordId": recID,
+                "searchQuery": searchTerm
+            });
+
         action.setCallback(this, function(response) {
             this.doLayout(response, component);
         });
