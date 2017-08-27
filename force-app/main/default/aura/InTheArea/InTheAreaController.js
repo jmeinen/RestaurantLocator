@@ -16,7 +16,7 @@
         }
         var selectedItem = event.currentTarget;
         component.set('v.openItem', selectedItem);
-        var itemDetails = selectedItem.querySelector('[data-details]')
+        var itemDetails = selectedItem.querySelector('[data-details]');
         $A.util.removeClass(itemDetails, 'slds-hide');
     }
 })
