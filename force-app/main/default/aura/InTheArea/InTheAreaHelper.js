@@ -1,26 +1,33 @@
 ({
-    getLocalList: function(component) {
+    getLocalList: function(component, recID) {
         var spinner = component.find('spinner');
-        $A.util.removeClass(spinner, "slds-hide");        
-        var recID = component.get("v.recordId");
-        var location = component.get("v.location");        
+        $A.util.removeClass(spinner, "slds-hide");
+        var objectType = component.get("v.sObjectName");      
         var searchTerm = component.find("searchTerm").get("v.value");
-        var objectType = component.get("v.sObjectName");        
         if (searchTerm == null) {
             searchTerm = component.get("v.defaultSearch");
         }
-        location = JSON.parse(location);
-        var action = component.get("c.getListByAddress");
-        action.setParams({
-            "recordId": recID,
-            "objectType": objectType,
-            "searchQuery": searchTerm
-        });        
+        if (recID) {
+            var action = component.get("c.getListByAddress");
+            action.setParams({
+                "recordId": recID,
+                "objectType": objectType,
+                "searchQuery": searchTerm
+            });
+        } else {
+            var location = component.get("v.location");
+            var action = component.get("c.getLocal");
+            action.setParams({
+                "searchTerm": searchTerm,
+                "lat": location.coords.latitude,
+                "lon": location.coords.longitude
+            });
+        }
         action.setCallback(this, function(response) {
             this.doLayout(response, component);
         });
         $A.enqueueAction(action);
-    },
+    },    
     doLayout: function(response, component) {
         var spinner = component.find('spinner');
         $A.util.addClass(spinner, "slds-hide");         
